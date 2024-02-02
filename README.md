@@ -1,5 +1,7 @@
 # Space Invaders Clone
 
+![](space.png)
+
 Welcome to the Space Invaders Clone repository! This project is a recreation of the classic Space Invaders game using HTML, CSS, D3js and JavaScript.
 
 ## Table of Contents
